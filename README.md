@@ -21,7 +21,7 @@
 
 ## 🚀 Установка и запуск
 
-1. Скачай архив из раздела [Releases]([https://github.com/твой-ник/AlbionOnline-AutoMarketSeller/releases](https://github.com/Vortales/AlbionOnline-AutoMarketSeller/releases))
+1. Скачай архив из раздела [Releases](https://github.com/Vortales/AlbionOnline-AutoMarketSeller/releases)
 2. Распакуй и запусти `AutoMarketSeller.exe`
 3. Нажми **F1** для калибровки
 4. Нажми **F4** для запуска
