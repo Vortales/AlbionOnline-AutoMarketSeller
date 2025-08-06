@@ -21,10 +21,11 @@
 
 ## 🚀 Установка и запуск
 
-1. Скачай архив из раздела [Releases](https://github.com/Vortales/AlbionOnline-AutoMarketSeller/releases)
-2. Распакуй и запусти `AutoMarketSeller.exe`
-3. Нажми **F1** для калибровки
-4. Нажми **F4** для запуска
+1. Скачай исполняющий файл из раздела [Releases](https://github.com/Vortales/AlbionOnline-AutoMarketSeller/releases)
+2. Скачайте и установите [Tesseract OCR](https://sourceforge.net/projects/tesseract-ocr.mirror/files/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe/download) с поддержкой анлийсого языка
+3. Распакуй и запусти `AutoMarketSeller.exe`
+4. Нажми **F1** для калибровки
+5. Нажми **F4** для запуска
 
 > ✅ Не требует Python, работает на любом ПК с Windows
 
