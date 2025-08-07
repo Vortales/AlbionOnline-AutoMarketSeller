@@ -86,6 +86,6 @@ OCR с предобработкой изображения (контраст, б
 Год: 2025
 
 ---
-![5b57a13bdebdf22f13fdb5b64d657a304b2dc95b89bfdd4d3714bb3d951b3266](https://github.com/user-attachments/assets/216033fc-fd62-44aa-8959-cd8e140c1cbd)
+                             ![5b57a13bdebdf22f13fdb5b64d657a304b2dc95b89bfdd4d3714bb3d951b3266](https://github.com/user-attachments/assets/216033fc-fd62-44aa-8959-cd8e140c1cbd)
 
 
