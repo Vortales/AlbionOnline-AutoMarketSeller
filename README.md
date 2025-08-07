@@ -79,7 +79,7 @@ OCR с предобработкой изображения (контраст, б
 6.Заново откройте окно с предметом и кнопкой Shift выделите область распознавания цены, затем нажмите ПКМ \
 ![5](https://github.com/user-attachments/assets/70404df8-7498-4a91-a90b-85faa8f9f5fb) \
 7.Кнопкой Shift выделите область распознавания средней цены, затем нажмите ПКМ \
-![6](https://github.com/user-attachments/assets/6d28d082-b94b-4cf6-afd3-5f3d29eb556d)
+![Распознавание сердней цены (online-video-cutter com)](https://github.com/user-attachments/assets/853bf0b9-f340-4b66-906d-dab621d32cb0)
 
 
 Примечание: После калиброки перезапустите программу!!!
